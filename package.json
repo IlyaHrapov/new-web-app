@@ -1,0 +1,7 @@
+{
+  "name": "new web-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/IlyaHrapov/new-web-app.git",
+  "license": "MIT"
+}
